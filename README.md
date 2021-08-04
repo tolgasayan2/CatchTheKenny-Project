@@ -1,3 +1,3 @@
-# GitTest
+# CatchTheKenny Project
 
 
